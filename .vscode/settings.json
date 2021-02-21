@@ -1,0 +1,9 @@
+{
+  "python.linting.enabled": true,
+  "editor.wordWrap": "on",
+  "editor.detectIndentation": false,
+  "cmake.configureOnOpen": false,
+  "editor.wordWrapColumn": 80,
+"editor.tabSize": 4,
+"python.pythonPath": "D:\\Anaconda3\\python.exe"
+}
